@@ -1,16 +1,16 @@
 # EDA_statistic
 
-Наш Заказчик — IT-компания, последние 15 лет успешно занимавшаяся разработкой и консалтингом на российском рынке. В декабре 2021 года компания открыла новое направление — развитие образовательных продуктов для IT-специалистов — онлайн-курсов повышения квалификации и профессиональной переподготовки. На рынок она планирует выпускать образовательные программы, которые должны:
+Our customer is an IT company that has been successfully engaged in the development and consulting in the Russian market for the past 15 years. In December 2021, the company opened a new direction-the development of educational products for IT specialists-online advanced training and professional retraining courses. She plans to release educational programs to the market, which should: 
 
-• готовить кадры в соответствии с требованиями современного рынка труда;
+• prepare personnel in accordance with the requirements of the modern labor market; 
 
-• стоимость должна быть конкурентной, но также соответствовать покупательной способности людей (она сейчас снижается);
+• the cost should be competitive, but also correspond to the purchasing power of people (it is now reduced); 
 
-• программы должны собираться быстро, чтобы гибко реагировать на спрос, и Компания могла занять свою нишу на рынке образовательных услуг.
+• Programs should be collected quickly in order to respond flexibly to demand, and the company could take its niche in the educational services market. 
 
-Задачей было выгрузить все вакансии по всем специализациям и подспециализациям, размещённые на агрегаторе на дату выгрузки (26 мая и 16 июня) по всем регионам РФ. region roles (26.05.22).xlsx
+The task was to unload all vacancies in all specializations and sub -specializations located on the unloading date on the unloading date (May 26 and June 16) in all regions of the Russian Federation. Region Roles (05.26.22) .xlsx 
 
-Обязательные поля:
+Mandatory fields:
 
 • название вакансии (name)
 
